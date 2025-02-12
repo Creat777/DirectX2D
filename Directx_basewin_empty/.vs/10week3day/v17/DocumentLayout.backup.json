@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YoonChangJun\\GithubMemory\\DirectX\\Directx_basewin_empty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDF2F0-0485-4E9D-850C-B7DE7F210EDD}|10week3day\\10week3day.vcxproj|D:\\YoonChangJun\\GithubMemory\\DirectX\\Directx_basewin_empty\\10week3day\\Graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCDF2F0-0485-4E9D-850C-B7DE7F210EDD}|10week3day\\10week3day.vcxproj|solutionrelative:10week3day\\Graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDF2F0-0485-4E9D-850C-B7DE7F210EDD}|10week3day\\10week3day.vcxproj|D:\\YoonChangJun\\GithubMemory\\DirectX\\Directx_basewin_empty\\10week3day\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCDF2F0-0485-4E9D-850C-B7DE7F210EDD}|10week3day\\10week3day.vcxproj|solutionrelative:10week3day\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDF2F0-0485-4E9D-850C-B7DE7F210EDD}|10week3day\\10week3day.vcxproj|D:\\YoonChangJun\\GithubMemory\\DirectX\\Directx_basewin_empty\\10week3day\\Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCDF2F0-0485-4E9D-850C-B7DE7F210EDD}|10week3day\\10week3day.vcxproj|solutionrelative:10week3day\\Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graphics.cpp",
+              "DocumentMoniker": "D:\\YoonChangJun\\GithubMemory\\DirectX\\Directx_basewin_empty\\10week3day\\Graphics.cpp",
+              "RelativeDocumentMoniker": "10week3day\\Graphics.cpp",
+              "ToolTip": "D:\\YoonChangJun\\GithubMemory\\DirectX\\Directx_basewin_empty\\10week3day\\Graphics.cpp",
+              "RelativeToolTip": "10week3day\\Graphics.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAlwC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T02:11:45.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graphics.h",
+              "DocumentMoniker": "D:\\YoonChangJun\\GithubMemory\\DirectX\\Directx_basewin_empty\\10week3day\\Graphics.h",
+              "RelativeDocumentMoniker": "10week3day\\Graphics.h",
+              "ToolTip": "D:\\YoonChangJun\\GithubMemory\\DirectX\\Directx_basewin_empty\\10week3day\\Graphics.h",
+              "RelativeToolTip": "10week3day\\Graphics.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T02:11:34.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\YoonChangJun\\GithubMemory\\DirectX\\Directx_basewin_empty\\10week3day\\main.cpp",
+              "RelativeDocumentMoniker": "10week3day\\main.cpp",
+              "ToolTip": "D:\\YoonChangJun\\GithubMemory\\DirectX\\Directx_basewin_empty\\10week3day\\main.cpp",
+              "RelativeToolTip": "10week3day\\main.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T02:03:04.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
