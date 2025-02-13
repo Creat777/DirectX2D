@@ -2,10 +2,12 @@
 #include <d2d1.h>
 
 #include "Graphics.h"
+#include "Sprite.h"
 
 #pragma comment(lib, "D2D1.lib")
 
 Graphics* graphics;
+Sprite* sprites;
 
 // canvas -> 2D
 // sprite Lenderer -> 3D
@@ -44,6 +46,8 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevIns, LPSTR lpCmdLine, int
 		return -1;
 	}
 
+	sprites = new Sprite(L"test.bmp", graphics);
+
 	//윈도우를 보여준다.
 	ShowWindow(hWnd, nCmdShow);
 	
@@ -65,11 +69,14 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevIns, LPSTR lpCmdLine, int
 
 			graphics->ClearScreen(0, 0, 1);
 
+			sprites->Draw();
+
 			graphics->EndDraw();
 		}
 	}
 
 	delete graphics;
+	delete sprites;
 
 	return (int)msg.wParam;
 }

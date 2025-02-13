@@ -11,6 +11,7 @@ public :
 	~Graphics();
 
 	bool Init(HWND windowHandle);
+	ID2D1RenderTarget* GetRenderTarget();
 
 	void BeginDraw() { rendertarget->BeginDraw(); }
 	void EndDraw() { rendertarget->EndDraw(); }

@@ -43,6 +43,11 @@ bool Graphics::Init(HWND windowHandle)
 	//return false;
 }
 
+ID2D1RenderTarget* Graphics::GetRenderTarget()
+{
+	return rendertarget;
+}
+
 void Graphics::ClearScreen(float r, float g, float b)
 {
 	rendertarget->Clear(

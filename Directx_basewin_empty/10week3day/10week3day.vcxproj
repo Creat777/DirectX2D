@@ -144,6 +144,8 @@
   <ItemGroup>
     <ClCompile Include="Graphics.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Sprite.cpp" />
+    <ClCompile Include="Sprite.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Graphics.h" />
